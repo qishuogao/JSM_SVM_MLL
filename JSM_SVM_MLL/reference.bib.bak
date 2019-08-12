@@ -1,0 +1,21 @@
+%%
+%% WinShell 3.3.0.3
+%% http://www.winshell.org/
+%%
+
+% Strings
+
+
+% Preamble
+
+
+% BibTeX Entries
+
+
+@techreport{tech:bioucas:split:2009,
+ author               = {J.M. Bioucas-Dias and M. Figueiredo},
+ institution          = {Instituto Superior T{\'{e}}cnico, TULisbon},
+ journal              = {Unknown Journal},
+ title                = {Logistic regression via variable splitting and augmented Lagrangian tools},
+ year                 = {2009},
+ }
